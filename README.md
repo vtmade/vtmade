@@ -44,19 +44,10 @@ With experience across agencies and corporate environments in major regions (APA
 - [**When I Decided to Make Code Dance: My ARTCode Experiment**](https://linkedin.com/pulse/when-decided-make-code-dance-my-ardcode-experiment-vinay-thakur-ucwyf)
 - [**Experimenting with Pi Value**](https://linkedin.com/pulse/experimenting-pi-value-vinay-thakur) - Mathematical exploration
 
-## 🛠️ Tech Stack & Expertise
-
-```text
-Analytics        ████████████████████   100%
-Data Science     ███████████████████    95%
-Consumer Research████████████████████   100%
-Business Intelligence█████████████████   85%
-Financial Services███████████████████   90%
-```
 
 **Industries**: Financial Services, Payments, Market Research  
 **Regions**: APAC, CEMEA (Central & Eastern Europe, Middle East & Africa)  
-**Focus Areas**: Consumer Behavior, Big Data, Business Intelligence
+**Focus Areas**: Social & Consumer Behavior, Data Sciences, Business Intelligence
 
 ## 📊 GitHub Stats
 
