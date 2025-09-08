@@ -80,7 +80,8 @@ With experience across agencies and corporate environments in major regions (APA
 
 <div align="center">
 
-**"Through the lens of consumer research and analytics, my work reveals stories and patterns."**
+**"Uncovering insights from data by day, shaping clay and code into art by weekend - 
+  where analytics meets creativity.."**
 
 ⭐️ From [vtmade](https://github.com/vtmade)
 
