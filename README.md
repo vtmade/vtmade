@@ -10,9 +10,10 @@
 
 ## 🔍 About Me
 
+**Social & Market Research, Data Science, Artist and Ceramist**
 **Insights & Analytics Lead @ Visa** | Dubai, UAE 🇦🇪
 
-I'm on a mission to **uncover extraordinary insights from everyday realities** that matter. Through the lens of consumer research and analytics, my work reveals stories and patterns that support business decisions.
+I am on a mission to **uncover extraordinary insights from everyday realities** that matter. Through the lens of consumer research and analytics, my work reveals stories and patterns that support business decisions.
 
 With experience across agencies and corporate environments in major regions (APAC & CEMEA), I've built a unique perspective on data-driven decision making. Currently at Visa Inc, I explore everything from consumer behavior insights to big data patterns, supporting various business functions.
 
@@ -20,8 +21,8 @@ With experience across agencies and corporate environments in major regions (APA
 
 - 📊 **Consumer Research & Analytics**: Uncovering meaningful patterns in human behavior
 - 📈 **Big Data Analysis**: Transforming complex datasets into actionable insights  
-- 💳 **Financial Services Innovation**: Working at the intersection of payments and consumer behavior
 - ✍️ **Research & Writing**: Sharing insights through data-driven storytelling
+- 🖌 **Create**: I am sunday-artist and ceramist. I also use data structure to develop code art
 
 ## 📚 Featured Articles & Research
 
@@ -79,7 +80,7 @@ Financial Services███████████████████   90
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vinaythakur)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/vt.made/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vpst18@gmail.com)
 
 </div>
 
@@ -87,7 +88,7 @@ Financial Services███████████████████   90
 
 <div align="center">
 
-**"Through the lens of consumer research and analytics, my work reveals stories and patterns that support business decisions."**
+**"Through the lens of consumer research and analytics, my work reveals stories and patterns."**
 
 ⭐️ From [vtmade](https://github.com/vtmade)
 
