@@ -11,6 +11,7 @@
 ## 🔍 About Me
 
 **Social & Market Research, Data Science, Artist and Ceramist**
+
 **Insights & Analytics Lead @ Visa** | Dubai, UAE 🇦🇪
 
 I am on a mission to **uncover extraordinary insights from everyday realities** that matter. Through the lens of consumer research and analytics, my work reveals stories and patterns that support business decisions.
