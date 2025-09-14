@@ -10,7 +10,7 @@
 
 ## 🔍 About Me
 
-**Social & Market Research, Data Science, Artist and Ceramist**
+**Social & Market Research, Data Science and Sunday Artist**
 
 **Insights & Analytics Lead @ Visa** | Dubai, UAE 🇦🇪
 
