@@ -21,9 +21,8 @@ I am on a mission to **uncover extraordinary insights from everyday realities** 
 
 With experience across agencies and corporate environments in major regions (APAC & CEMEA), I've built a unique perspective on data-driven decision making. Currently at Visa Inc, I explore everything from consumer behavior insights to big data patterns, supporting various business functions.
 
-**Industries**: Financial Services, Payments, Market Research
-**Regions**: APAC, CEMEA (Central & Eastern Europe, Middle East & Africa)
-**Focus Areas**: Social & Consumer Behavior, Data Sciences, Business Intelligence
+> **Working across**: Financial Services · Payments · Market Research
+> **Global experience**: APAC & CEMEA regions
 
 ### 🚀 What I Do
 
@@ -34,72 +33,23 @@ With experience across agencies and corporate environments in major regions (APA
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🎨 Data Art & Creative Works
-
-<table>
-<tr>
-<td width="50%">
-
-[![HashPrint](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=HashPrint&theme=radical&hide_border=true)](https://github.com/vtmade/HashPrint)
-
-</td>
-<td width="50%">
-
-[![Hanami](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=Hanami&theme=radical&hide_border=true)](https://github.com/vtmade/Hanami)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![ARTCode](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=Ardcode&theme=radical&hide_border=true)](https://github.com/vtmade/Ardcode)
-
-</td>
-<td width="50%">
-
-[![Connect with Gandhi](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=connectwithgandhi&theme=radical&hide_border=true)](https://github.com/vtmade/connectwithgandhi)
-
-</td>
-</tr>
-</table>
+## 🌟 Featured Work
 
 ### 📊 Research & Methodology
 
-<table>
-<tr>
-<td width="50%">
+**[Research Edge Series](https://github.com/vtmade/research-edge-series)** - Rigorous research methodology for social scientists and market researchers. A comprehensive guide to conducting meaningful research in social sciences.
 
-[![Research Edge Series](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=research-edge-series&theme=radical&hide_border=true)](https://github.com/vtmade/research-edge-series)
+**[Measurement Scales](https://github.com/vtmade/Measurement-Scales)** - Collection of validated measurement scales and research instruments for consumer behavior and social research.
 
-</td>
-<td width="50%">
+**[Connect with Gandhi](https://github.com/vtmade/connectwithgandhi)** - Interactive exploration of Gandhi's 45,458 collected works. Search, visualize, and discover patterns in historical writings.
 
-[![Measurement Scales](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=Measurement-Scales&theme=radical&hide_border=true)](https://github.com/vtmade/Measurement-Scales)
+### 🎨 Creative Explorations
 
-</td>
-</tr>
-</table>
+**[Hanami](https://github.com/vtmade/Hanami)** - Generative art exploring data as an aesthetic medium. Where code meets creativity.
 
-</div>
+**[HashPrint](https://github.com/vtmade/HashPrint)** - Visual experiments with data patterns and algorithmic design.
+
+**[ARTCode](https://github.com/vtmade/Ardcode)** - Code-based artistic experiments transforming algorithms into visual narratives.
 
 ---
 
@@ -140,33 +90,13 @@ With experience across agencies and corporate environments in major regions (APA
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtmade&show_icons=true&theme=radical&hide_border=true)
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtmade&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-</td>
-<td width="50%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vtmade&theme=radical&hide_border=true)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vtmade&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</td>
-</tr>
-</table>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=vtmade&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vtmade&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
