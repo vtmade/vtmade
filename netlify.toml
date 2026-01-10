@@ -1,0 +1,10 @@
+# This is a GitHub profile README repository - no deployment needed
+# GitHub automatically displays README.md at github.com/vtmade
+
+[build]
+  # Ignore all builds - this prevents Netlify from attempting to deploy
+  ignore = "exit 0"
+
+[build.environment]
+  # No build environment needed
+  NODE_VERSION = "18"
