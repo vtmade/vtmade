@@ -126,7 +126,51 @@ With experience across agencies and corporate environments in major regions (APA
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=vtmade&theme=radical&hide_border=true)](https://github.com/vtmade/vtmade)
+### 🎨 Data Art & Creative Projects
+
+<table>
+<tr>
+<td width="50%">
+
+[![HashPrint](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=HashPrint&theme=radical&hide_border=true)](https://github.com/vtmade/HashPrint)
+
+</td>
+<td width="50%">
+
+[![Hanami](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=Hanami&theme=radical&hide_border=true)](https://github.com/vtmade/Hanami)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![ARTCode](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=Ardcode&theme=radical&hide_border=true)](https://github.com/vtmade/Ardcode)
+
+</td>
+<td width="50%">
+
+[![Connect with Gandhi](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=connectwithgandhi&theme=radical&hide_border=true)](https://github.com/vtmade/connectwithgandhi)
+
+</td>
+</tr>
+</table>
+
+### 📊 Research & Methodology Tools
+
+<table>
+<tr>
+<td width="50%">
+
+[![Research Edge Series](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=research-edge-series&theme=radical&hide_border=true)](https://github.com/vtmade/research-edge-series)
+
+</td>
+<td width="50%">
+
+[![Measurement Scales](https://github-readme-stats.vercel.app/api/pin/?username=vtmade&repo=Measurement-Scales&theme=radical&hide_border=true)](https://github.com/vtmade/Measurement-Scales)
+
+</td>
+</tr>
+</table>
 
 </div>
 
