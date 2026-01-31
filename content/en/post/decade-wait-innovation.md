@@ -2,6 +2,7 @@
 title: "A Decade Wait: Why Innovation Takes Longer Than We Think"
 description: "Understanding the true timeline of innovation adoption"
 date: 2024-11-15
+author: ["Vinay Thakur"]
 categories: ["Behavioral Insights"]
 tags: ["innovation", "technology adoption", "timing", "business"]
 series: ["Behavioral Insights"]

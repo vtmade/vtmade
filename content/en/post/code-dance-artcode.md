@@ -2,6 +2,7 @@
 title: "When I Decided to Make Code Dance: My ARTCode Experiment"
 description: "The story behind the ARTCode creative coding project"
 date: 2024-09-20
+author: ["Vinay Thakur"]
 categories: ["Creative Projects"]
 tags: ["code art", "creative coding", "generative art", "experiments"]
 series: ["Creative Coding"]

@@ -2,6 +2,7 @@
 title: "What 2,640 Billionaires Reveal: Zodiac Signs & Wealth Patterns"
 description: "Analyzing patterns in zodiac signs and wealth distribution among billionaires"
 date: 2024-12-15
+author: ["Vinay Thakur"]
 categories: ["Data Analysis"]
 tags: ["billionaires", "wealth", "data analysis", "patterns", "zodiac"]
 series: ["Wealth Patterns"]

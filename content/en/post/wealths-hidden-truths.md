@@ -2,6 +2,7 @@
 title: "Wealth's Hidden Truths"
 description: "Exploring the hidden patterns and truths behind wealth accumulation"
 date: 2024-12-10
+author: ["Vinay Thakur"]
 categories: ["Data Analysis"]
 tags: ["wealth", "data analysis", "patterns", "economics"]
 series: ["Wealth Patterns"]

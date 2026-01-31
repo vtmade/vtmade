@@ -2,6 +2,7 @@
 title: "Can Synthetic Data Help Make Sense of Fragmented Market Research?"
 description: "Exploring the role of synthetic data in market research"
 date: 2024-10-20
+author: ["Vinay Thakur"]
 categories: ["Market Research"]
 tags: ["synthetic data", "market research", "data science", "methodology"]
 series: ["Market Research"]

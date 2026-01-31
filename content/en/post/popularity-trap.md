@@ -2,6 +2,7 @@
 title: "The Popularity Trap: Analysis of 10,000 Movies, Videos & Games"
 description: "Data analysis revealing patterns in entertainment popularity"
 date: 2024-11-10
+author: ["Vinay Thakur"]
 categories: ["Behavioral Insights"]
 tags: ["entertainment", "data analysis", "popularity", "movies", "games"]
 series: ["Behavioral Insights"]

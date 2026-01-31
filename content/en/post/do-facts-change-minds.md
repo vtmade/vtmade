@@ -2,6 +2,7 @@
 title: "Do Facts Change Minds?"
 description: "Examining how facts influence opinion change"
 date: 2024-10-15
+author: ["Vinay Thakur"]
 categories: ["Market Research"]
 tags: ["psychology", "persuasion", "facts", "behavior change"]
 series: ["Market Research"]

@@ -29,6 +29,42 @@
   pageRef = '/categories'
   weight = 5
 
+# Author social links (for author page sidebar)
+[[vinay-thakur]]
+  name = 'LinkedIn'
+  identifier = 'linkedin'
+  url = 'https://linkedin.com/in/vinaythakur'
+  weight = 1
+  pre = 'linkedin'
+
+[[vinay-thakur]]
+  name = 'Instagram'
+  identifier = 'instagram'
+  url = 'https://www.instagram.com/vt.made/'
+  weight = 2
+  pre = 'instagram'
+
+[[vinay-thakur]]
+  name = 'GitHub'
+  identifier = 'github'
+  url = 'https://github.com/vtmade'
+  weight = 3
+  pre = 'github'
+
+[[vinay-thakur]]
+  name = 'ORCID'
+  identifier = 'orcid'
+  url = 'https://orcid.org/0009-0005-7662-0219'
+  weight = 4
+  pre = 'orcid'
+
+[[vinay-thakur]]
+  name = 'Email'
+  identifier = 'email'
+  url = 'mailto:vpst18@gmail.com'
+  weight = 5
+  pre = 'email'
+
 # Footer menu
 [[footer]]
   name = 'LinkedIn'
