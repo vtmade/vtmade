@@ -1,5 +1,5 @@
 ---
-title: "Vinay Thakur"
+title: "vinay thakur"
 description: "Social & Market Research | Data Science | Sunday Artist"
 date: 2025-01-26
 ---
