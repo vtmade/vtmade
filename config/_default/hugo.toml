@@ -1,4 +1,4 @@
-baseURL = 'https://vtmade.github.io/'
+baseURL = '/'
 title = 'Vinay Thakur'
 theme = 'hugo-brewm'
 
