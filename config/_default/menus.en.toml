@@ -1,0 +1,55 @@
+# Main navigation menu
+[[main]]
+  name = 'Home'
+  identifier = 'home'
+  pageRef = '/'
+  weight = 1
+
+[[main]]
+  name = 'About'
+  identifier = 'about'
+  pageRef = '/about'
+  weight = 2
+
+[[main]]
+  name = 'Projects'
+  identifier = 'projects'
+  pageRef = '/projects'
+  weight = 3
+
+[[main]]
+  name = 'Articles'
+  identifier = 'articles'
+  pageRef = '/post'
+  weight = 4
+
+[[main]]
+  name = 'Categories'
+  identifier = 'categories'
+  pageRef = '/categories'
+  weight = 5
+
+# Footer menu
+[[footer]]
+  name = 'LinkedIn'
+  identifier = 'linkedin'
+  url = 'https://linkedin.com/in/vinaythakur'
+  weight = 1
+
+[[footer]]
+  name = 'Instagram'
+  identifier = 'instagram'
+  url = 'https://www.instagram.com/vt.made/'
+  weight = 2
+
+[[footer]]
+  name = 'GitHub'
+  identifier = 'github'
+  url = 'https://github.com/vtmade'
+  weight = 3
+
+[[footer]]
+  name = 'Email'
+  identifier = 'email'
+  url = 'mailto:vpst18@gmail.com'
+  weight = 4
