@@ -1,0 +1,96 @@
+baseURL = '/'
+title = 'Vinay Thakur'
+theme = 'hugo-brewm'
+
+# Hugo settings
+enableGitInfo = true
+canonifyURLs = true
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+summaryLength = 70
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+  [markup.highlight]
+    style = 'monokai'
+    lineNos = true
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Main parameters
+[params]
+  title = "Vinay Thakur"
+  description = "Social & Market Research | Data Science | Sunday Artist - Insights & Analytics Lead @ Visa, Dubai"
+  copyright = "Vinay Thakur"
+
+  # Features
+  extMeta = true
+  coffeeStat = true
+  AllowAIRobots = true
+  ZenMode = false
+  HideHugoCredit = false
+  DisableFootBar = false
+
+  [params.author]
+    name = "Vinay Thakur"
+    email = "vpst18@gmail.com"
+
+  [params.search]
+    enable = true
+    pagefind = true
+
+  [params.logo]
+    logoType = true
+
+  [params.home]
+    disableSlide = false
+    disableListing = false
+    featuredListing = ['categories', 'series']
+
+  [params.posts]
+    justifying = false
+    noIndent = false
+    sfdefault = false
+    colophon = false
+    disableHistory = false
+    related = true
+    RelatedLimit = 5
+    share = true
+    secnum = false
+
+  [params.feed]
+    flowlines = true
+    flowlinesLimit = 21
+
+  [params.typeface]
+    webSafe = false
+    roman = 'crimson'
+    sans = 'inter'
+    localHost = false
+    minimalUI = false
+
+  [params.socialCard]
+    enable = true
+    images = "/images/social-card.jpg"
+
+  [params.RSS]
+    limit = 15
+    content = 15
+
+# Outputs
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
