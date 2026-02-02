@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article>
+  <header class="max-w-prose">
+    <h1 class="!my-0 pb-2.5">{{ .Title }}</h1>
+    {{ with .Description }}
+    <p class="mt-4 text-neutral-500 dark:text-neutral-400">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <section class="mt-8">
+    {{ .Content }}
+
+    <div class="mt-6 mb-4">
+      <a href="/Ardcode/" target="_blank" class="inline-flex items-center gap-2 px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors">
+        Open Full Screen Gallery
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+    </div>
+
+    <div class="relative w-full rounded-lg overflow-hidden border border-neutral-200 dark:border-neutral-700" style="height: 80vh;">
+      <iframe
+        src="/Ardcode/"
+        class="absolute inset-0 w-full h-full"
+        title="Ardcode Interactive Art Gallery"
+        allow="autoplay; fullscreen"
+        loading="lazy">
+      </iframe>
+    </div>
+  </section>
+</article>
+{{ end }}
