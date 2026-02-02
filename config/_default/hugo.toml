@@ -30,9 +30,9 @@ summaryLength = 70
 
 # Main parameters
 [params]
-  title = "Vinay Thakur"
+  title = "vinay thakur"
   description = "Social & Market Research | Data Science | Sunday Artist - Insights & Analytics Lead @ Visa, Dubai"
-  copyright = "Vinay Thakur"
+  copyright = "vinay thakur"
 
   # Features
   extMeta = true
