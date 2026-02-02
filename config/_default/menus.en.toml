@@ -24,7 +24,7 @@
   weight = 4
 
 [[main]]
-  name = 'Art'
+  name = 'Codeart'
   identifier = 'ardcode'
   pageRef = '/ardcode'
   weight = 5
