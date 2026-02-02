@@ -37,12 +37,46 @@
         position: relative;
       }
 
-
+      /* Back navigation */
+      .back-nav {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 16px;
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 8px;
+        color: #e5e5e5;
+        text-decoration: none;
+        font-family: 'Inter', sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        transition: all 0.2s ease;
+      }
+      .back-nav:hover {
+        background: rgba(255, 255, 255, 0.1);
+        border-color: rgba(255, 255, 255, 0.2);
+      }
+      .back-nav svg {
+        width: 16px;
+        height: 16px;
+      }
     </style>
     <script type="module" crossorigin src="/Ardcode/assets/index-BNgixc32.js"></script>
     <link rel="stylesheet" crossorigin href="/Ardcode/assets/index-y-0wuyow.css">
   </head>
   <body>
+    <a href="/" class="back-nav">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M19 12H5M12 19l-7-7 7-7"/>
+      </svg>
+      Back to Site
+    </a>
     <div id="root"></div>
   </body>
 </html>
