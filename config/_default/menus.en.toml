@@ -24,10 +24,16 @@
   weight = 4
 
 [[main]]
+  name = 'Ardcode'
+  identifier = 'ardcode'
+  url = '/Ardcode/'
+  weight = 5
+
+[[main]]
   name = 'Categories'
   identifier = 'categories'
   pageRef = '/categories'
-  weight = 5
+  weight = 6
 
 # Footer menu
 [[footer]]

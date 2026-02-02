@@ -28,4 +28,5 @@ Making code dance, as described in the article ["When I Decided to Make Code Dan
 
 ## Links
 
+- [**View Ardcode Gallery**](/Ardcode/) - Interactive digital art experience
 - [GitHub Repository](https://github.com/vtmade/Ardcode)
