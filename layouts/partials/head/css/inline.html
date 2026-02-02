@@ -1,29 +1,36 @@
 <style>
-/* Site title - blue/purple color */
+/* Site title - lowercase, blue/purple color */
 #logotype__text {
-  fill: #4444cc !important;
+  fill: #3333bb !important;
+  text-transform: lowercase !important;
 }
 
-/* Navigation - reduce spacing */
+#logotype {
+  text-transform: lowercase !important;
+}
+
+/* Header - spread content across full width */
+header.pagewidth {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  width: 100% !important;
+}
+
+/* Navigation - spread links, bigger font */
+#top-nav {
+  flex-grow: 1 !important;
+}
+
 #top-nav nav ul {
-  gap: 0.4rem !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+  gap: 2rem !important;
 }
 
 #top-nav nav ul li a {
-  padding: 0.2rem 0.4rem !important;
-  font-size: 0.8rem !important;
+  font-size: 1rem !important;
+  font-weight: 500 !important;
   white-space: nowrap !important;
-}
-
-/* Header layout - tighter */
-header.pagewidth {
-  gap: 0.75rem !important;
-}
-
-/* Logo smaller on mobile */
-@media (max-width: 768px) {
-  #logotype {
-    max-width: 120px !important;
-  }
 }
 </style>
