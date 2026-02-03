@@ -23,6 +23,14 @@
     {{- end }}
     <!-- Custom site styles -->
     <style>
+    /* Force dark mode as default */
+    :root {
+      color-scheme: dark light;
+      --off: #fff;
+      --fg: var(--fg-dark);
+      --bg: var(--bg-dark);
+      --ac: var(--ac-dark);
+    }
     /* Site title - lowercase, blue color */
     #logo #logotype__text,
     header #logo #logotype__text {
@@ -48,4 +56,13 @@
       font-weight: 500 !important;
     }
     </style>
+    <script>
+    // Set dark mode as default
+    if (!localStorage.getItem('scheme')) {
+      document.documentElement.style.setProperty('--off', '#fff');
+      document.documentElement.style.setProperty('--fg', 'var(--fg-dark)');
+      document.documentElement.style.setProperty('--bg', 'var(--bg-dark)');
+      document.documentElement.style.setProperty('--ac', 'var(--ac-dark)');
+    }
+    </script>
 {{ end }}
