@@ -192,8 +192,8 @@ The same instinct for pattern, worked by hand — ceramics from the studio:
 - Growing **Conjoint Studio** and the open tool suite on [The Research Edge](https://theresearchedge.co/tools/)
 - Expanding the [Info Design for GenAI](https://theresearchedge.co/infodesign/) library
 - Synthetic data and GenAI applications in market research — including [published work on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6699198)
-- Digital payment behavior patterns across APAC & CEMEA
-- New code art and ceramics
+- New art forms — paper folding, origami, clay, and wood
+- Studying deeper human behavior
 
 ---
 
