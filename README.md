@@ -14,6 +14,7 @@
 [![The Research Edge](https://img.shields.io/badge/The%20Research%20Edge-theresearchedge.co-5b4b8a?style=flat-square&logo=bookstack&logoColor=white)](https://theresearchedge.co)
 [![SSRN](https://img.shields.io/badge/SSRN-Published%20Research-8c1515?style=flat-square&logo=academia&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6699198)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinaythakur-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaythakur)
+[![Kaggle](https://img.shields.io/badge/Kaggle-vpst18-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/vpst18)
 [![Instagram](https://img.shields.io/badge/Instagram-vt.made-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vt.made/)
 [![Email](https://img.shields.io/badge/Email-vpst18@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vpst18@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=vtmade&color=1f6f5c&style=flat-square)
@@ -56,7 +57,7 @@ One chart from my piece [The $19.64 Trillion Club and What It Actually Looks Lik
 ## Published Research
 
 **[Wardrobe Dissatisfaction as Identity Expression in Cross-Cultural Synthetic Qualitative Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6699198)**
-*SSRN* — A research paper exploring wardrobe dissatisfaction as identity expression, using cross-cultural synthetic qualitative methods — part of my broader work on synthetic respondents and AI-assisted research methodology.
+*SSRN* — A research paper exploring wardrobe dissatisfaction as identity expression, using cross-cultural synthetic qualitative methods — part of my broader work on synthetic respondents and AI-assisted research methodology. Companion dataset: [Wardrobe Paradox Synthetic Corpus](https://www.kaggle.com/datasets/vpst18/wardrobe-paradox-synthetic-corpus) — 30 synthetic in-depth interviews across 12 markets.
 
 [![Read on SSRN](https://img.shields.io/badge/Read%20the%20paper-SSRN-8c1515?style=flat-square)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6699198)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7662--0219-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-7662-0219)
@@ -131,6 +132,19 @@ More visual work on the [portfolio's information design gallery](https://vtmade.
 
 ---
 
+## Open Data on Kaggle
+
+Datasets I've built and published on [kaggle.com/vpst18](https://www.kaggle.com/vpst18):
+
+| Dataset | What's inside |
+|---|---|
+| [The "No Hello, How Are You" Debate](https://www.kaggle.com/datasets/vpst18/no-hello-how-are-you-debate) | Text corpus around the online etiquette debate on greeting-free conversation |
+| [Discussions on Rich vs. Poor](https://www.kaggle.com/datasets/vpst18/discussions-on-rich-vs-poor) | Conversations about wealth dynamics from public forums — the raw material behind my wealth-patterns writing |
+| [Wardrobe Paradox Synthetic Corpus](https://www.kaggle.com/datasets/vpst18/wardrobe-paradox-synthetic-corpus) | 30 synthetic in-depth interviews on wardrobe dissatisfaction across 12 markets — companion to the SSRN paper |
+| [Synthetic Data — South Africa Beauty Market](https://www.kaggle.com/datasets/vpst18/synthetic-data-original-to-synthetic) | An original-to-synthetic dataset pair for evaluating synthetic market research data |
+
+---
+
 ## Selected Writing
 
 Data stories from the [portfolio](https://vtmade.netlify.app/writing/) — everyday observations meet behavioral research:
@@ -165,9 +179,9 @@ The same instinct for pattern, worked by hand — ceramics from the studio:
 
 <div align="center">
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtmade&show_icons=true&theme=graywhite&hide_border=true)
+![Vinay's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vtmade&show_icons=true&theme=graywhite&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vtmade&layout=compact&theme=graywhite&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vtmade&layout=compact&theme=graywhite&hide_border=true)
 
 </div>
 
