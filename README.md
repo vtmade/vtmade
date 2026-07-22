@@ -2,10 +2,12 @@
 
 <div align="center">
 
-**Social & Market Research | Data Science | Sunday Artist**
+**Consumer Research · Data Storytelling · Information Design · Sunday Artist**
 
 **Insights & Analytics Lead @ Visa** | Dubai, UAE 🇦🇪
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-vtmade.netlify.app-2ea44f?style=flat&logo=netlify&logoColor=white)](https://vtmade.netlify.app)
+[![The Research Edge](https://img.shields.io/badge/The%20Research%20Edge-theresearchedge.co-blueviolet?style=flat&logo=bookstack&logoColor=white)](https://theresearchedge.co)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaythakur)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vt.made/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vpst18@gmail.com)
@@ -17,9 +19,11 @@
 
 ## 🔍 About Me
 
-I am on a mission to **uncover extraordinary insights from everyday realities** that matter. Through the lens of consumer research and analytics, my work reveals stories and patterns that support business decisions.
+Three worlds converge in my work: **research, data, and art**.
 
-With experience across agencies and corporate environments in major regions (APAC & CEMEA), I've built a unique perspective on data-driven decision making. Currently at Visa Inc, I explore everything from consumer behavior insights to big data patterns, supporting various business functions.
+I'm a consumer researcher, data storyteller, and information designer on a mission to **uncover extraordinary insights from everyday realities**. I treat data as a narrative medium — transforming datasets into visual stories that reveal patterns numbers alone cannot explain.
+
+With experience across agencies and corporate environments in APAC & CEMEA, currently at Visa Inc, I explore everything from consumer behavior insights to big data patterns, supporting business decisions across markets.
 
 > **Working across**: Financial Services · Payments · Market Research
 > **Global experience**: APAC & CEMEA regions
@@ -27,29 +31,62 @@ With experience across agencies and corporate environments in major regions (APA
 ### 🚀 What I Do
 
 - 📊 **Consumer Research & Analytics**: Uncovering meaningful patterns in human behavior
+- 🎨 **Information Design**: Turning complex data into clear, visual explanations
 - 📈 **Big Data Analysis**: Transforming complex datasets into actionable insights
 - ✍️ **Research & Writing**: Sharing insights through data-driven storytelling
 - 🖌️ **Create**: Sunday artist and ceramist who uses data structures to develop code art
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Flagship: [The Research Edge](https://theresearchedge.co)
 
-### 📊 Research & Methodology
+**[theresearchedge.co](https://theresearchedge.co)** — an open, independent platform making rigorous research methodology accessible, practical, and free for social scientists, market researchers, and data professionals. Peer-review-grounded articles, open-source browser tools, datasets, and workflows.
 
-**[Research Edge Series](https://github.com/vtmade/research-edge-series)** - Rigorous research methodology for social scientists and market researchers. A comprehensive guide to conducting meaningful research in social sciences.
+### 🧪 [Conjoint Studio](https://theresearchedge.co/tools/) — the big one
 
-**[Measurement Scales](https://github.com/vtmade/Measurement-Scales)** - Collection of validated measurement scales and research instruments for consumer behavior and social research.
+A complete **choice-based conjoint (CBC) platform that runs entirely in your browser** — no uploads, your data never leaves your device:
 
-**[Connect with Gandhi](https://github.com/vtmade/connectwithgandhi)** - Interactive exploration of Gandhi's 45,458 collected works. Search, visualize, and discover patterns in historical writings.
+- 🎛️ Design balanced experimental study plans with diagnostics
+- 📐 Estimate part-worth utilities, attribute importance, and willingness-to-pay
+- 🧩 Latent-class market segmentation
+- 💰 Revenue-focused market simulator for concept testing
+- 📉 95% confidence intervals, HTML reports, publication-ready visuals
+- 🔒 Works offline after load · plain-language guidance at every step
 
-### 🎨 Creative Explorations
+### 🛠️ [Tools & Solutions](https://theresearchedge.co/tools/)
 
-**[Hanami](https://github.com/vtmade/Hanami)** - Generative art exploring data as an aesthetic medium. Where code meets creativity.
+- **Correspondence Analysis Map** — turn numerical grids into perceptual maps in the browser
+- **GenAI on Quantitative Survey Data** — Claude Code skills + Python workflow for survey analysis
+- **Qualitative Text Analysis** — a Claude skill for structured analysis of transcripts and open-ends
+- **Synthetic Consumers** — a thinking guide on synthetic respondents in market research
 
-**[HashPrint](https://github.com/vtmade/HashPrint)** - Visual experiments with data patterns and algorithmic design.
+### 📖 Articles
 
-**[ARTCode](https://github.com/vtmade/Ardcode)** - Code-based artistic experiments transforming algorithms into visual narratives.
+Nine (and counting) methodology deep-dives on [theresearchedge.co](https://theresearchedge.co): survey design as instrumentation, synthetic research, AI in qual and quant analysis, sampling theory, measurement science, and causal inference.
+
+---
+
+## 🎨 Information Design
+
+Information design is where my research and art sides meet — the craft of making data *legible*.
+
+**[Info Design for GenAI](https://theresearchedge.co/infodesign/)** *(also at [infodesign.netlify.app](https://infodesign.netlify.app))* — a curated library of **210 chart & infographic designs**, each with a full specification and a ready-made prompt for generative AI tools (Claude, ChatGPT, Gemini…). Find a design → copy the spec → add your data → get the visual, not a pile of code. Includes hacks for brand styling, variations, and PNG/SVG/web export.
+
+More visual work — like **Community Blossom**, demographic data rendered as organic networks — lives on my [portfolio](https://vtmade.netlify.app).
+
+---
+
+## 💡 Featured Projects
+
+**[Connect with Gandhi](https://connectwithgandhi.netlify.app)** ([repo](https://github.com/vtmade/connectwithgandhi)) — Interactive exploration of Gandhi's **45,458 collected works** through a radial cluster-tree visualization. Dense archival material turned into an explorable, spatial knowledge interface.
+
+**[ARDCode](https://ardcode.netlify.app)** ([repo](https://github.com/vtmade/Ardcode)) — An interactive art gallery of code-based experiments, transforming algorithms into visual narratives.
+
+**[Measurement Scales](https://github.com/vtmade/Measurement-Scales)** — Validated measurement scales and research instruments for consumer behavior and social research.
+
+**[Hanami](https://github.com/vtmade/Hanami)** — Generative art exploring data as an aesthetic medium.
+
+**[HashPrint](https://github.com/vtmade/HashPrint)** — Visual experiments with data patterns and algorithmic design.
 
 ---
 
@@ -104,11 +141,11 @@ With experience across agencies and corporate environments in major regions (APA
 
 ## 🎯 Current Focus
 
-- 🔍 Exploring synthetic data applications in market research
-- 📱 Analyzing digital payment behavior patterns
-- 🌍 Understanding cross-cultural consumer insights across APAC & CEMEA
-- 📊 Building data visualization tools for complex behavioral patterns
-- 🎨 Creating data-driven art and visualizations
+- 🧪 Growing **Conjoint Studio** and the open tool suite on [The Research Edge](https://theresearchedge.co/tools/)
+- 🎨 Expanding the [Info Design for GenAI](https://theresearchedge.co/infodesign/) library
+- 🔍 Exploring synthetic data and GenAI applications in market research
+- 📱 Analyzing digital payment behavior patterns across APAC & CEMEA
+- 🖌️ Creating data-driven art and visualizations
 
 ---
 
@@ -119,6 +156,6 @@ With experience across agencies and corporate environments in major regions (APA
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vtmade.vtmade&left_color=gray&right_color=brightgreen&left_text=Total%20Visits)
 
-⭐️ From [vtmade](https://github.com/vtmade)
+⭐️ From [vtmade](https://github.com/vtmade) · [vtmade.netlify.app](https://vtmade.netlify.app) · [theresearchedge.co](https://theresearchedge.co)
 
 </div>
